@@ -86,3 +86,12 @@ Unique product within the Qubic niche
 ## Conclusion 
 MVP https://t.me/Aigarth_bot
 Aigarth (aNNa) is an innovative AI bot that brings together knowledge, analytics, mining tools, multimedia capabilities, and NFT gaming into one ecosystem. It is set to become the primary tool for interacting with the Qubic, making the technology accessible and understandable for everyone.
+
+## We have also actively created and developed an ecosystem for aNNa:
+❗️X: @Aigarth_
+❗️Instagram: @Aigarth_ 
+❗️Telegram: @Aigarth_AI
+❗️Threads: @Aigarth_
+❗️TikTok: @Aigarth_
+❗️NFT "𝒂𝑵𝑵𝒂 - 𝑻𝒉𝒆 𝑺𝒐𝒖𝒏𝒅 𝒐𝒇 𝑭𝒖𝒕𝒖𝒓𝒆"
+https://qubicbay.io/collections/9
