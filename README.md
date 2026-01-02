@@ -4,7 +4,7 @@ https://t.me/Aigarth_bot
 Aigarth (aNNa) — Intelligent Telegram Assistant for Exploring the Qubic Ecosystem (AI assistant)
 The bot  is currently operating at the MVP stage. The bot provides programmed responses, and it is also possible to ask it questions, to which it generates answers within the framework of the Qubic project. 
 
-Aigarth (aNNa) is an advanced AI assistant in Telegram designed to provide users with instant and convenient interaction with the Qubic blockchain. The bot combines trained neural networks, a knowledge base, analytics tools, and services for mining, trading, and learning — all inside Telegram. 
+Aigarth (aNNa) is an advanced AI assistant in Telegram designed to provide users with instant and convenient interaction with the Qubic blockchain. The bot combines trained neural networks, a knowledge base, analytics tools, and services for mining, trading, and learning and other features. 
 
 Project Mission
 To make the Qubic ecosystem accessible to everyone: from beginners to professional miners and traders. aNNa becomes a primary knowledge hub, analytical tool, and personal assistant for working with Qubic.
