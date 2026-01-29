@@ -1,3 +1,14 @@
+Submitted by: СHINUK (@Qubic_RU)
+
+Duration: 3 Months
+
+Requested Amount: Total 6.9 bln QUBIC for 3 months
+
+Wallet: ETTLBACYUCMPCCGGLPFPGROOIYJBRQSRVOITYIYWFFSFMISJOZZUQFRBUGUG
+
+Available Options: Option 0: No, I don’t want.
+Option 1: Yes, approve the budget of 6.9 bln QUBIC
+
 # AI-Telegram-Assistant
 MVP https://t.me/Aigarth_bot
 
