@@ -137,10 +137,10 @@ Aigarth (aNNa) 是 Telegram 平台上的進階 AI 助手，旨在為用戶提供
 ## 預計完成時程為2026年2月至3月。
 
 ## aNNa開發策略：
-第一階段 - 於Telegram實現完整功能的機器人
-第二階段 - 將機器人整合至Discord
-第三階段 - 將機器人整合至X
-整合至行動應用程式或網站
+- 第一階段 - 於Telegram實現完整功能的機器人
+- 第二階段 - 將機器人整合至Discord
+- 第三階段 - 將機器人整合至X
+- 整合至行動應用程式或網站
 第四階段 - 若專案需求旺盛，將開發適用於會議與AI活動的展位型AI助理，aNNa可與人群互動答疑，取代或輔助真人工作。此專案之最小可行產品（MVP）已於2024年成功上線。
 https://docs.google.com/document/d/1XByGCICz3pZwGrOS-Ddw1ZyMMfLUbd7TUKxUmDPcDEw/edit?tab=t.0#heading=h.tybg11orqssr
 
