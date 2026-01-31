@@ -121,7 +121,7 @@ Aigarth (aNNa) is an innovative AI bot that brings together knowledge, analytics
 ❗️NFT "𝒂𝑵𝑵𝒂 - 𝑻𝒉𝒆 𝑺𝒐𝒖𝒏𝒅 𝒐𝒇 𝑭𝒖𝒕𝒖𝒓𝒆"
 https://qubicbay.io/collections/9
 
-
+____________________________________________________________________________________________________________________________________________________
 # AI-Telegram-Assistant
 MVP https://t.me/Aigarth_bot
 
