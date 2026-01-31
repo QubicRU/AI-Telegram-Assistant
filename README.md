@@ -1,13 +1,15 @@
 Submitted by: СHINUK (@Qubic_RU)
 
-Duration: 3 Months
-
-Requested Amount: Total 6.9 bln QUBIC for 3 months
+Requested Amount: Total 25 bln QUBIC 
+Total Requested: 15 000 USD Equivalent
+The QUBIC amount was calculated using a valuation of 0.0000006100 USD per QUBIC.
 
 Wallet: ETTLBACYUCMPCCGGLPFPGROOIYJBRQSRVOITYIYWFFSFMISJOZZUQFRBUGUG
 
-Available Options: Option 0: No, I don’t want.
-Option 1: Yes, approve the budget of 6.9 bln QUBIC
+Available Options:
+Option 0: ❌ No, I don't want
+Option 1: ✅ Yes, approve the budget of 25 bln QUBIC
+
 
 # AI-Telegram-Assistant
 MVP https://t.me/Aigarth_bot
@@ -19,6 +21,9 @@ Aigarth (aNNa) is an advanced AI assistant in Telegram designed to provide users
 
 ## Project Mission
 To make the Qubic ecosystem accessible to everyone: from beginners to professional miners and traders. aNNa becomes a primary knowledge hub, analytical tool, and personal assistant for working with Qubic.
+
+## The requested funds will be used for stages 1-3 of development. During these stages, we plan to implement all of the AI assistant's functions (six main ones) described below.
+## The planned completion date for the work is February-March 2026. 
 
 ## aNNa Development Strategy:
 Stage 1 - fully functional bot in Telegram
@@ -39,7 +44,7 @@ https://docs.google.com/document/d/1XByGCICz3pZwGrOS-Ddw1ZyMMfLUbd7TUKxUmDPcDEw/
 6. NFT-based game aNNa
 
 
-## аNNa Features and capabilities.  The next stage in the bot's development:
+## Features and capabilities of aNNa. Detailed description:
 
 ## 1. Multilingual Support
 The AI engine is trained to respond quickly and provide relevant and accurate information in several languages. 
