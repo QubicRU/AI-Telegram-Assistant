@@ -7,8 +7,8 @@ The QUBIC amount was calculated using a valuation of 0.0000006 USD per QUBIC.
 Wallet: CHINUKBKTHYFRGISXTNJAWGOESGDYNQXYBZCUUZHVCSINQEQOVSAYXBBNSBN
 
 Available Options:
-Option 0: ❌ No, I don't want
-Option 1: ✅ Yes, approve the budget of 25 bln QUBIC
+Option 0: ❌ No, I don't want 
+Option 1: ✅ Yes, approve the budget of 25 bln QUBIC 
 
 Information is provided in two languages: English and Chinese (EN | CN). 
 
@@ -27,12 +27,12 @@ To make the Qubic ecosystem accessible to everyone: from beginners to profession
 ## The planned completion date for the work is February-March 2026. 
 
 ## aNNa Development Strategy:
-Stage 1 - fully functional bot in Telegram
-Stage 2 - integration of the bot into Discord
-Stage 3 - integration of the bot into X
-Integrate it into a mobile app or website
+Stage 1 - fully functional bot in Telegram. 
+Stage 2 - integration of the bot into Discord. 
+Stage 3 - integration of the bot into X. 
+Integrate it into a mobile app or website. 
 Stage 4 - If the project is in demand, we will be able to create an AI assistant in the form of a stand for conferences and AI events, where aNNa will be able to communicate with people and answer their questions, replacing or supplementing real people. We have already successfully implemented the MVP of this project in 2024. 
-https://docs.google.com/document/d/1XByGCICz3pZwGrOS-Ddw1ZyMMfLUbd7TUKxUmDPcDEw/edit?tab=t.0#heading=h.tybg11orqssr
+https://docs.google.com/document/d/1XByGCICz3pZwGrOS-Ddw1ZyMMfLUbd7TUKxUmDPcDEw/edit?tab=t.0#heading=h.tybg11orqssr. 
 
 
 ## Main functions of the AI assistant: 
