@@ -2,9 +2,9 @@ Submitted by: СHINUK (@Qubic_RU)
 
 Requested Amount: Total 25 bln QUBIC 
 Total Requested: 15 000 USD Equivalent
-The QUBIC amount was calculated using a valuation of 0.0000006100 USD per QUBIC.
+The QUBIC amount was calculated using a valuation of 0.0000006 USD per QUBIC.
 
-Wallet: ETTLBACYUCMPCCGGLPFPGROOIYJBRQSRVOITYIYWFFSFMISJOZZUQFRBUGUG
+Wallet: CHINUKBKTHYFRGISXTNJAWGOESGDYNQXYBZCUUZHVCSINQEQOVSAYXBBNSBN
 
 Available Options:
 Option 0: ❌ No, I don't want
@@ -48,7 +48,15 @@ https://docs.google.com/document/d/1XByGCICz3pZwGrOS-Ddw1ZyMMfLUbd7TUKxUmDPcDEw/
 ## Features and capabilities of aNNa. Detailed description:
 
 ## 1. Multilingual Support
-The AI engine is trained to respond quickly and provide relevant and accurate information in several languages. 
+The AI engine is trained to respond quickly and provide up-to-date and accurate information in 6 major languages:
+- English
+- Russian
+- Spanish
+- French
+- Chinese
+- Vietnamese
+- Portuguese
+- Indonesian  
 This makes Qubic accessible to the global community.
 
 ## 2. Instant Answers About Qubic
@@ -149,8 +157,16 @@ https://docs.google.com/document/d/1XByGCICz3pZwGrOS-Ddw1ZyMMfLUbd7TUKxUmDPcDEw/
 ## aNNa功能與特性詳解：
 
 ## 1. 多語言支援
-AI引擎經訓練可快速回應，並以多種語言提供相關精準資訊。
-此功能使Qubic能服務全球社群。
+該人工智慧引擎經過訓練，能快速回應並提供六種主要語言的即時精準資訊：
+- 英語
+- 俄語
+- 西班牙語
+- 法語
+- 中文
+- 越南語
+- 葡萄牙語
+- 印尼語
+這使Qubic能服務全球社群。
 
 ## 2. Qubic即時解答
 機器人可回應任何專案相關問題：
