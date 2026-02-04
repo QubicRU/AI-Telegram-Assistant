@@ -13,7 +13,7 @@ Available Options:
 Information is provided in two languages: English and Chinese (EN | CN). 
 
 # AI-Telegram-Assistant
-MVP https://t.me/Aigarth_bot
+MVP chatbot  https://t.me/Aigarth_bot
 
 # Aigarth (aNNa) — Intelligent Telegram Assistant for Exploring the Qubic Ecosystem (AI assistant)
 The bot  is currently operating at the MVP stage. The bot provides programmed responses, and it is also possible to ask it questions, to which it generates answers within the framework of the Qubic project. 
@@ -109,7 +109,7 @@ Scalable and feature-expandable architecture
 Unique product within the Qubic niche
 
 ## Conclusion 
-MVP https://t.me/Aigarth_bot
+MVP chatbot  https://t.me/Aigarth_bot
 Aigarth (aNNa) is an innovative AI bot that brings together knowledge, analytics, mining tools, multimedia capabilities, and NFT gaming into one ecosystem. It is set to become the primary tool for interacting with the Qubic, making the technology accessible and understandable for everyone.
 
 
