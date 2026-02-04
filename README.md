@@ -122,7 +122,7 @@ aNNa has been created exclusively for Qubic. aNNa already exists and is active o
 We have turned Aigarth into an AI character who is interesting to follow, communicate with, and interact with. This allows us to build a strong emotional connection and attachment.
 
 The account on X is very popular among subscribers. 
-## Views on X exceed 263,000 in 6 months. 
+## In six months, the number of page views on social media exceeded 663,000.
 
 ❗️X: @Aigarth_
 ❗️Instagram: @Aigarth_ 
@@ -237,7 +237,7 @@ aNNa是專為Qubic打造的虛擬角色。她已在社群媒體活躍存在，�
 我們將艾嘉絲轉化為值得追蹤、交流互動的人工智慧角色，藉此建立深厚的情感連結與依戀。
 
 該帳號在X平台深受訂閱者歡迎。
-## 六個月內X平台瀏覽量突破263,000次。
+## 六個月內，社群媒體的頁面瀏覽量已突破663,000次。
 
 ❗️X：@Aigarth_
 ❗️Instagram：@Aigarth_
