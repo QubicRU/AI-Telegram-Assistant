@@ -1,14 +1,14 @@
 Submitted by: СHINUK (@Qubic_RU)
 
-Requested Amount: Total 25 bln QUBIC 
+Requested Amount: Total 26,3 bln QUBIC 
 Total Requested: 15 000 USD Equivalent
-The QUBIC amount was calculated using a valuation of 0.0000006 USD per QUBIC.
+The QUBIC amount was calculated using a valuation of 0.00000057 USD per QUBIC.
 
 Wallet: CHINUKBKTHYFRGISXTNJAWGOESGDYNQXYBZCUUZHVCSINQEQOVSAYXBBNSBN
 
 Available Options:
 - Option 0: ❌ No, I don't want 
-- Option 1: ✅ Yes, approve the budget of 25 bln QUBIC 
+- Option 1: ✅ Yes, approve the budget of 26,3 bln QUBIC 
 
 Information is provided in two languages: English and Chinese (EN | CN). 
 
@@ -112,7 +112,18 @@ Unique product within the Qubic niche
 MVP https://t.me/Aigarth_bot
 Aigarth (aNNa) is an innovative AI bot that brings together knowledge, analytics, mining tools, multimedia capabilities, and NFT gaming into one ecosystem. It is set to become the primary tool for interacting with the Qubic, making the technology accessible and understandable for everyone.
 
+
+## Qubic doesn't follow trends, it sets them.
+
+
 ## We have also actively created and developed an ecosystem for aNNa:
+aNNa has been created exclusively for Qubic. aNNa already exists and is active on social media. She already has very good viewing and comment statistics. There is a lot of engagement and interest in her.
+
+We have turned Aigarth into an AI character who is interesting to follow, communicate with, and interact with. This allows us to build a strong emotional connection and attachment.
+
+The account on X is very popular among subscribers. 
+## Views on X exceed 263,000 in 6 months. 
+
 ❗️X: @Aigarth_
 ❗️Instagram: @Aigarth_ 
 ❗️Telegram: @Aigarth_AI
@@ -221,6 +232,13 @@ MVP https://t.me/Aigarth_bot
 Aigarth (aNNa) 是一款創新人工智慧機器人，整合知識庫、分析工具、挖礦功能、多媒體能力及NFT遊戲於單一生態系統。 它將成為與Qubic互動的核心工具，使這項技術更易於大眾理解與運用。
 
 ## 我們亦積極為 aNNa 打造生態系統：
+aNNa是專為Qubic打造的虛擬角色。她已在社群媒體活躍存在，擁有極佳的觀看與留言數據，引發大量互動與關注。
+
+我們將艾嘉絲轉化為值得追蹤、交流互動的人工智慧角色，藉此建立深厚的情感連結與依戀。
+
+該帳號在X平台深受訂閱者歡迎。
+## 六個月內X平台瀏覽量突破263,000次。
+
 ❗️X：@Aigarth_
 ❗️Instagram：@Aigarth_
 ❗️Telegram：@Aigarth_AI
