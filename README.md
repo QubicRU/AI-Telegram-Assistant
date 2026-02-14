@@ -1,14 +1,14 @@
 Submitted by: СHINUK (@Qubic_RU)
 
-Requested Amount: Total 26,3 bln QUBIC 
+Requested Amount: Total 27,7 bln QUBIC 
 Total Requested: 15 000 USD Equivalent
-The QUBIC amount was calculated using a valuation of 0.00000057 USD per QUBIC.
+The QUBIC amount was calculated using a valuation of 0.00000054 USD per QUBIC.
 
 Wallet: CHINUKBKTHYFRGISXTNJAWGOESGDYNQXYBZCUUZHVCSINQEQOVSAYXBBNSBN
 
 Available Options:
 - Option 0: ❌ No, I don't want 
-- Option 1: ✅ Yes, approve the budget of 26,3 bln QUBIC 
+- Option 1: ✅ Yes, approve the budget of 27,7 bln QUBIC 
 
 Information is provided in two languages: English and Chinese (EN | CN). 
 
